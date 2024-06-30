@@ -1,0 +1,5 @@
+create a main.go file
+run --  "go mod init go/go"
+run --- "go mod tidy"
+
+***to download external libraries, run ---  go get "name of library" **** 
